@@ -1,4 +1,5 @@
 import React from 'react';
+import "bootstrap";
 import axios from "axios";
 import ReactDOM from 'react-dom/client';
 import './index.css';
